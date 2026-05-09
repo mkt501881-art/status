@@ -1,14 +1,21 @@
+
 [
   {
     "name": "example1",
-    "status": "using"
+    "status": "available",
+    "location": "n1",
+    "owner": "user1"
   },
   {
     "name": "example2",
-    "status": "available"
+    "status": "using",
+    "location": "n2",
+    "owner": "user2"
   },
   {
     "name": "example3",
-    "status": "using"
+    "status": "available",
+    "location": "n3",
+    "owner": "user3"
   }
 ]
