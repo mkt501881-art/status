@@ -6,5 +6,9 @@
   {
     "name": "example2",
     "status": "available"
+  },
+  {
+    "name": "example3",
+    "status": "using"
   }
 ]
