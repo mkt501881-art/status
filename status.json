@@ -15,9 +15,9 @@
   },
   {
     "name": "example3",
-    "status": "available",
+    "status": "using",
     "location": "n3",
     "owner": "user3",
-    "genre": "マンガ"
+    "genre": "小説"
   }
 ]
