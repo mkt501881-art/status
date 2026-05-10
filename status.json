@@ -3,18 +3,21 @@
     "name": "example1",
     "status": "available",
     "location": "n1",
-    "owner": "user1"
+    "owner": "user1",
+    "genre": "マンガ"
   },
   {
     "name": "example2",
     "status": "available",
     "location": "n2",
-    "owner": "user2"
+    "owner": "user2",
+    "genre": "ライトノベル"
   },
   {
     "name": "example3",
     "status": "available",
     "location": "n3",
-    "owner": "user3"
+    "owner": "user3",
+    "genre": "小説"
   }
 ]
