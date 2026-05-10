@@ -7,9 +7,9 @@
   },
   {
     "name": "example2",
-    "status": "available",
-    "location": "a2",
-    "owner": "user02"
+    "status": "using",
+    "location": "n2",
+    "owner": "user2"
   },
   {
     "name": "example3",
