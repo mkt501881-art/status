@@ -13,7 +13,7 @@
   },
   {
     "name": "example3",
-    "status": "available",
+    "status": "using",
     "location": "n3",
     "owner": "user3"
   }
