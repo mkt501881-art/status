@@ -1,11 +1,15 @@
 [
   {
     "name": "example1",
-    "status": "available",
+    "status": "pending",
     "location": "n1",
     "owner": "user1",
     "genre": "マンガ",
-    "borrower": null
+    "borrower": {
+      "email": "n132879@stg.nada.ac.jp",
+      "name": "野田龍平",
+      "className": "2年1組"
+    }
   },
   {
     "name": "example2",
