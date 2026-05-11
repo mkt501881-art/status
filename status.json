@@ -6,8 +6,7 @@
     "owner": "user1",
     "genre": "マンガ",
     "borrower": null
-    }
-  },
+    },
   {
     "name": "example2",
     "status": "available",
@@ -15,8 +14,7 @@
     "owner": "user2",
     "genre": "ライトノベル",
     "borrower": null
-    }
-  },
+    },
   {
     "name": "example3",
     "status": "available",
