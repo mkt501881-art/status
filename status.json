@@ -4,27 +4,31 @@
     "status": "available",
     "location": "n1",
     "owner": "user1",
-    "genre": "マンガ"
+    "genre": "マンガ",
+    "borrower": null
   },
   {
     "name": "example2",
     "status": "available",
     "location": "n2",
     "owner": "user2",
-    "genre": "ライトノベル"
+    "genre": "ライトノベル",
+    "borrower": null
   },
   {
     "name": "example3",
     "status": "available",
     "location": "n3",
     "owner": "user3",
-    "genre": "小説"
+    "genre": "小説",
+    "borrower": null
   },
   {
     "name": "example4",
     "status": "available",
     "location": "n4",
     "owner": "user4",
-    "genre": "その他"
+    "genre": "その他",
+    "borrower": null
   }
 ]
