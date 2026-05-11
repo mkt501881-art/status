@@ -42,5 +42,13 @@
       "name": "豊田涼太",
       "className": "3年2組"
     }
+  },
+  {
+    "name": "ドラえもん1巻",
+    "status": "available",
+    "location": "私の家",
+    "owner": "足立恭一朗",
+    "genre": "漫画",
+    "borrower": null
   }
 ]
