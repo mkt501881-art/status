@@ -19,5 +19,12 @@
     "location": "n3",
     "owner": "user3",
     "genre": "小説"
+  },
+  {
+    "name": "example4",
+    "status": "available",
+    "location": "n4",
+    "owner": "user4",
+    "genre": "その他"
   }
 ]
