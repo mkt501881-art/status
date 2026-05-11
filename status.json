@@ -25,10 +25,14 @@
   },
   {
     "name": "example4",
-    "status": "available",
+    "status": "pending",
     "location": "n4",
     "owner": "user4",
     "genre": "その他",
-    "borrower": null
+    "borrower": {
+      "email": "k115460@stg.nada.ac.jp",
+      "name": "豊田涼太",
+      "className": "3年2組"
+    }
   }
 ]
