@@ -6,7 +6,7 @@
     "owner": "user1",
     "genre": "マンガ",
     "borrower": null
-    },
+  },
   {
     "name": "example2",
     "status": "available",
@@ -14,10 +14,10 @@
     "owner": "user2",
     "genre": "ライトノベル",
     "borrower": null
-    },
+  },
   {
     "name": "example3",
-    "status": "available",
+    "status": "using",
     "location": "n3",
     "owner": "user3",
     "genre": "小説",
