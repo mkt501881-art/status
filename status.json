@@ -1,14 +1,11 @@
 [
   {
     "name": "example1",
-    "status": "pending",
+    "status": "available",
     "location": "n1",
     "owner": "user1",
     "genre": "マンガ",
-    "borrower": {
-      "email": "n073864@stg.nada.ac.jp",
-      "name": "近藤智貴"
-    }
+    "borrower": null
   },
   {
     "name": "example2",
