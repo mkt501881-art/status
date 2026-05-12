@@ -13,11 +13,15 @@
   },
   {
     "name": "example2",
-    "status": "available",
+    "status": "pending",
     "location": "n2",
     "owner": "user2",
     "genre": "ライトノベル",
-    "borrower": null
+    "borrower": {
+      "email": "n073864@stg.nada.ac.jp",
+      "name": "近藤智貴",
+      "className": "2年2組"
+    }
   },
   {
     "name": "example3",
