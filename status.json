@@ -33,11 +33,15 @@
   },
   {
     "name": "example4",
-    "status": "available",
+    "status": "pending",
     "location": "n4",
     "owner": "user4",
     "genre": "その他",
-    "borrower": null
+    "borrower": {
+      "email": "m38824361@gmail.com",
+      "name": "687",
+      "className": "m年K組"
+    }
   },
   {
     "name": "ドラえもん1巻",
