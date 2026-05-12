@@ -33,15 +33,11 @@
   },
   {
     "name": "example4",
-    "status": "pending",
+    "status": "available",
     "location": "n4",
     "owner": "user4",
     "genre": "その他",
-    "borrower": {
-      "email": "n093930@stg.nada.ac.jp",
-      "name": "仙頭一朗",
-      "className": "2年3組"
-    }
+    "borrower": null
   },
   {
     "name": "ドラえもん1巻",
