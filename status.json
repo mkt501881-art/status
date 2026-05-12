@@ -13,15 +13,11 @@
   },
   {
     "name": "example2",
-    "status": "pending",
+    "status": "available",
     "location": "n2",
     "owner": "user2",
     "genre": "ライトノベル",
-    "borrower": {
-      "email": "n093930@stg.nada.ac.jp",
-      "name": "仙頭一朗",
-      "className": "2年3組"
-    }
+    "borrower": null
   },
   {
     "name": "example3",
