@@ -1,7 +1,7 @@
 [
   {
     "name": "example1",
-    "status": "pending",
+    "status": "available",
     "location": "n1",
     "owner": "user1",
     "genre": "マンガ",
@@ -9,7 +9,7 @@
   },
   {
     "name": "example2",
-    "status": "pending",
+    "status": "available",
     "location": "n2",
     "owner": "user2",
     "genre": "ライトノベル",
@@ -17,7 +17,7 @@
   },
   {
     "name": "example3",
-    "status": "using",
+    "status": "available",
     "location": "n3",
     "owner": "user3",
     "genre": "小説",
@@ -25,7 +25,7 @@
   },
   {
     "name": "example4",
-    "status": "pending",
+    "status": "available",
     "location": "n4",
     "owner": "user4",
     "genre": "その他",
