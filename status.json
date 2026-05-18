@@ -29,11 +29,7 @@
     "location": "n4",
     "owner": "user4",
     "genre": "その他",
-    "borrower": {
-      "email": "n005661@stg.nada.ac.jp",
-      "name": "足立恭一朗",
-      "className": "2年2組"
-    }
+    "borrower": null
   },
   {
     "name": "ドラえもん1巻",
