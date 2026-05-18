@@ -38,5 +38,13 @@
     "owner": "足立恭一朗",
     "genre": "マンガ",
     "borrower": null
+  },
+  {
+    "name": "存在しない本",
+    "status": "available",
+    "location": "知るかボケ",
+    "owner": "ｼﾙｶﾎﾞｹ",
+    "genre": "その他",
+    "borrower": null
   }
 ]
