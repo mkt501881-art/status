@@ -41,10 +41,14 @@
   },
   {
     "name": "存在しない本",
-    "status": "available",
+    "status": "pending",
     "location": "知るかボケ",
     "owner": "ｼﾙｶﾎﾞｹ",
     "genre": "その他",
-    "borrower": null
+    "borrower": {
+      "email": "n005661@stg.nada.ac.jp",
+      "name": "足立恭一朗",
+      "className": "2年2組"
+    }
   }
 ]
