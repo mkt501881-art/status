@@ -54,13 +54,5 @@
     "owner": "ｼﾙｶﾎﾞｹ",
     "genre": "その他",
     "borrower": null
-  },
-  {
-    "name": "1",
-    "status": "available",
-    "location": "1",
-    "owner": "1",
-    "genre": "その他",
-    "borrower": null
   }
 ]
