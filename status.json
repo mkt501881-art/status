@@ -53,10 +53,6 @@
     "location": "知るかボケ",
     "owner": "ｼﾙｶﾎﾞｹ",
     "genre": "その他",
-    "borrower": {
-      "email": "n005661@stg.nada.ac.jp",
-      "name": "足立恭一朗",
-      "className": "2年2組"
-    }
+    "borrower": null
   }
 ]
