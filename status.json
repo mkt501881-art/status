@@ -37,15 +37,11 @@
   },
   {
     "name": "ドラえもん1巻",
-    "status": "pending",
+    "status": "available",
     "location": "私の家",
     "owner": "足立恭一朗",
     "genre": "マンガ",
-    "borrower": {
-      "email": "n005661@stg.nada.ac.jp",
-      "name": "足立恭一朗",
-      "className": "2年2組"
-    }
+    "borrower": null
   },
   {
     "name": "存在しない本",
