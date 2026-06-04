@@ -9,15 +9,11 @@
   },
   {
     "name": "example2",
-    "status": "pending",
+    "status": "available",
     "location": "n2",
     "owner": "user2",
     "genre": "ライトノベル",
-    "borrower": {
-      "email": "n005661@stg.nada.ac.jp",
-      "name": "足立恭一朗",
-      "className": "2年2組"
-    }
+    "borrower": null
   },
   {
     "name": "example3",
