@@ -25,7 +25,7 @@
   },
   {
     "name": "example4",
-    "status": "pending",
+    "status": "available",
     "location": "n4",
     "owner": "user4",
     "genre": "その他",
