@@ -54,5 +54,13 @@
     "owner": "ｼﾙｶﾎﾞｹ",
     "genre": "その他",
     "borrower": null
+  },
+  {
+    "name": "殺し屋の営業術",
+    "status": "available",
+    "location": "M2-2",
+    "owner": "83近藤智貴",
+    "genre": "小説",
+    "borrower": null
   }
 ]
