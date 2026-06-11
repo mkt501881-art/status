@@ -55,11 +55,15 @@
   },
   {
     "name": "殺し屋の営業術",
-    "status": "available",
+    "status": "pending",
     "location": "M2-2",
     "owner": "83近藤智貴",
     "owner_id": "1360130757770870915",
     "genre": "小説",
-    "borrower": null
+    "borrower": {
+      "email": "n073864@stg.nada.ac.jp",
+      "name": "近藤智貴",
+      "className": "2年2組"
+    }
   }
 ]
