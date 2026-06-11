@@ -4,7 +4,7 @@
     "status": "available",
     "location": "n1",
     "owner": "user1",
-    "ownerId": null,
+    "owner_id": null,
     "genre": "マンガ",
     "borrower": null
   },
@@ -13,7 +13,7 @@
     "status": "available",
     "location": "n2",
     "owner": "user2",
-    "ownerId": null,
+    "owner_id": null,
     "genre": "ライトノベル",
     "borrower": null
   },
@@ -22,7 +22,7 @@
     "status": "available",
     "location": "n3",
     "owner": "user3",
-    "ownerId": null,
+    "owner_id": null,
     "genre": "小説",
     "borrower": null
   },
@@ -31,7 +31,7 @@
     "status": "available",
     "location": "n4",
     "owner": "user4",
-    "ownerId": null,
+    "owner_id": null,
     "genre": "その他",
     "borrower": null
   },
@@ -40,7 +40,7 @@
     "status": "available",
     "location": "私の家",
     "owner": "足立恭一朗",
-    "ownerId": null,
+    "owner_id": null,
     "genre": "マンガ",
     "borrower": null
   },
@@ -49,7 +49,7 @@
     "status": "available",
     "location": "知るかボケ",
     "owner": "ｼﾙｶﾎﾞｹ",
-    "ownerId": null,
+    "owner_id": null,
     "genre": "その他",
     "borrower": null
   },
@@ -58,7 +58,7 @@
     "status": "available",
     "location": "M2-2",
     "owner": "83近藤智貴",
-    "ownerId": "1360130757770870915",
+    "owner_id": "1360130757770870915",
     "genre": "小説",
     "borrower": null
   }
