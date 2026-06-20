@@ -46,12 +46,16 @@
   },
   {
     "name": "存在しない本",
-    "status": "available",
+    "status": "pending",
     "location": "知るかボケ",
     "owner": "ｼﾙｶﾎﾞｹ",
     "owner_id": null,
     "genre": "その他",
-    "borrower": null
+    "borrower": {
+      "email": "k115460@stg.nada.ac.jp",
+      "name": "豊田涼太",
+      "className": "3年2組"
+    }
   },
   {
     "name": "殺し屋の営業術",
