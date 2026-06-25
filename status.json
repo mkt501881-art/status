@@ -69,5 +69,16 @@
       "name": "近藤智貴",
       "className": "2年2組"
     }
+  },
+  {
+    "name": "a",
+    "status": "available",
+    "location": "a",
+    "owner": "a",
+    "owner_id": "1360130757770870915",
+    "genre": "その他",
+    "borrower": null,
+    "dueDate": null,
+    "pendingAt": null
   }
 ]
