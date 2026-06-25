@@ -72,7 +72,7 @@
   },
   {
     "name": "test1",
-    "status": "pending",
+    "status": "using",
     "location": "?",
     "owner": "?",
     "owner_id": "1360130757770870915",
@@ -82,7 +82,7 @@
       "name": "近藤智貴",
       "className": "2年2組"
     },
-    "dueDate": null,
-    "pendingAt": "2026-06-25T19:02:26.680Z"
+    "dueDate": "2026-07-02",
+    "pendingAt": null
   }
 ]
