@@ -72,13 +72,17 @@
   },
   {
     "name": "test1",
-    "status": "available",
+    "status": "pending",
     "location": "?",
     "owner": "?",
     "owner_id": "1360130757770870915",
     "genre": "その他",
-    "borrower": null,
+    "borrower": {
+      "email": "n073864@stg.nada.ac.jp",
+      "name": "近藤智貴",
+      "className": "2年2組"
+    },
     "dueDate": null,
-    "pendingAt": null
+    "pendingAt": "2026-06-25T19:02:26.680Z"
   }
 ]
